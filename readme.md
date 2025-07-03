@@ -1,32 +1,13 @@
-# 🧪 Тестовая платформа (React + Node.js + MongoDB)
-
-Простая веб-платформа для прохождения тестов.  
-Frontend написан на **React + TailwindCSS**, backend — на **Node.js (Express)**, база данных — **MongoDB**.
-
----
-
-## 🚀 Быстрый старт (для Windows)
-
-### 1. Клонируй репозиторий
-
+Инструкция
+### 1.
 ```bash
-git clone https://github.com/rtwwa/tests
+clone https://github.com/AlinaFlower5/tests_kopnalina
 ```
-
-### 2. Перейди в директорию проекта
-
+### 2. 
 ```bash
-cd tests
+cd tests_kopnalina
 ```
-
-### 3. Запусти PowerShell-скрипт
-
+### 3. 
 ```bash
 .\deploy-win.ps1
-```
-
-### Если PowerShell запрещает выполнение скрипта, включи разрешение командой
-
-```powershell
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
